@@ -1,8 +1,8 @@
-TEST1 = 'test1'
+TEST1 = 'test2'
 
 
 def test_function(text):
-    return f'{text}_123'
+    return f'{text}_456'
 
 
 print(test_function(TEST1))
