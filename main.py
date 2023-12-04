@@ -8,3 +8,4 @@ def func():
     pass
 
 print(test_function(TEST1))
+print(test_function('asd'))
