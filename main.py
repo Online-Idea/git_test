@@ -6,3 +6,4 @@ def test_function(text):
 
 
 print(test_function(TEST1))
+print(test_function('fdgh'))
